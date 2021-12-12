@@ -4,3 +4,7 @@ Description - My IP Address
 
 Connection String
 mongodb+srv://techstackmedia:<password>@cluster0.n5uqo.mongodb.net/myFirstDatabase?retryWrites=true&w=majority
+
+Use bootswatch in layout.ejs
+https://bootswatch.com/
+
